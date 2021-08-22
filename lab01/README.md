@@ -11,7 +11,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `<nome completo>`
+* Arthur Cemin Baia
 
 ## Tarefa 1 sobre APIs de acesso
 
