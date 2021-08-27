@@ -13,4 +13,4 @@ Estrutura de pastas:
 
 ## Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
 
-> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`.
+> https://github.com/arthurcbaia/MC536-BancoDeDados/blob/main/lab02/lab2-logic-model-dbpedia.ipynb
