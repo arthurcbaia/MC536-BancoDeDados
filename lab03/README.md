@@ -1,6 +1,18 @@
-# SQL no NHANES
-*Lab de Bancos de Dados em 03/09/2021*
+# Modelo para Apresentação do Lab03 - SQL no NHANES
 
-Entre no ambiente Lab2Learn (https://github.com/santanche/lab2learn) e faça as tarefas especificadas no notebook `lab03-nhanes.ipynb`.
+Estrutura de pastas:
 
-Veja template para submissão desta tarefa na pasta `/templates/2021/lab03`.
+~~~
+├── README.md  <- arquivo apresentando a tarefa
+│
+├── data      <- arquivos CSV extraídos do NHANES
+│
+└── notebook   <- arquivos do notebook
+~~~
+
+# Aluno
+* 213259: Arthur Cemin Baia
+
+## Tarefa sobre Consultas SQL no NHANES
+
+> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`. Seu notebook deve fazer referência à sua pasta data.
