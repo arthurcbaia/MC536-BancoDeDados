@@ -9,7 +9,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* 213259: Arthur Cemin Baia
+* `213259`: `Arthur Cemin Baia`
 
 # Análise do Artigo `<título do artigo>`
 
