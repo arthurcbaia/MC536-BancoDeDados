@@ -18,7 +18,7 @@ Estrutura de pastas:
 | referência | `Felipe F. Vasconcelos, Joao V. S. Tavares, Murilo U. Ribeiro,Fabio J. Coutinho1, Joao Paulo Clarindo (2021). CandiDATA: um dataset para analise das eleições no Brasil, SBBD 2021. https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view` |
 | link       | `https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view` |
 | dataset | `https://github.com/felipeVsc/CandiDATA` |
-| formato | `Relacional: Modelo Tabelar` |s
+| formato | `Relacional: Modelo Tabelar` |
 
 ## Resumo
 
