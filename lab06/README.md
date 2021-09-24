@@ -11,14 +11,14 @@ Estrutura de pastas:
 # Aluno
 * `213259`: `Arthur Cemin Baia`
 
-# Análise do Artigo `<título do artigo>`
+# Análise do Artigo `CandiDATA: um dataset para analise das eleic ̧  ́ oes no Brasil`
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `<referência bibliográfica do artigo>` |
-| link       | `<url para acesso à página do artigo ou PDF do mesmo>` |
-| dataset | `<link para o repositório público onde está hospedado o dataset>` |
-| formato | `<formato em que os arquivos são disponibilizados>` |
+| referência | `Felipe F. Vasconcelos, Joao V. S. Tavares, Murilo U. Ribeiro,Fabio J. Coutinho1, Joao Paulo Clarindo (2021). CandiDATA: um dataset para analise das eleições no Brasil, SBBD 2021. https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view` |
+| link       | `https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view` |
+| dataset | `https://github.com/felipeVsc/CandiDATA` |
+| formato | `Relacional: Modelo Tabelar` |s
 
 ## Resumo
 
