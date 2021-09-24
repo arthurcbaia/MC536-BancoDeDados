@@ -11,7 +11,7 @@ Estrutura de pastas:
 # Aluno
 * `213259`: `Arthur Cemin Baia`
 
-# Análise do Artigo `CandiDATA: um dataset para analise das eleic ̧  ́ oes no Brasil`
+# Análise do Artigo `CandiDATA: um dataset para analise das eleições no Brasil`
 
 | campo | valor |
 |------------|----------------------------------------|
