@@ -20,6 +20,6 @@ Estrutura de pastas:
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+> * Baseado na colocação de um time e seu saldo de gols, é possível prever em que fase do mata-mata ele chegará?
+> * Baseado nas formações táticas dos times, existe uma que se destaca em relação jogos vencidos ?
+> * Baseado no país sede da copa do mundo, existe uma chance maior do time da casa ser o vencedor da copa?
