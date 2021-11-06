@@ -26,9 +26,9 @@ A representação na forma de triplas é opcional.
 ## Perguntas de Pesquisa ou Queries
 
 > Liste aqui as três perguntas de pesquisa ou queries
-> * Pergunta 1
+> * Pergunta 1 *
 Qual é as seleções que jogaram mais vezes entre si na história da copa do mundo feminina?
-> * Pergunta 2
+> * Pergunta 2 *
 Qual é o placar mais comum entre todas as partidas?
-> * Pergunta 3
+> * Pergunta 3 *
 Dentre as seleções vencedoras da partidas, qual é a formação mais utilizada?
